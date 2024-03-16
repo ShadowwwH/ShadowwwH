@@ -1,16 +1,13 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAzaG5qd21uMjNkampzMnkwYjRxOXJjb3A4OXIyejJhcnhlYTI1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/noyBeNjH4nbtXV5ZLA/giphy.gif" width="300"/>
+</div>
+<div id="badges">
+  </a>
+  <a href="https://twitter.com/hardy_chri11169">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 ### Hi there 👋
-
-<!--
-**ShadowwwH/ShadowwwH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍🏫 About Me : I'm good person😙
+### I'm crypto enthusiast💙
